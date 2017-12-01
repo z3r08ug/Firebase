@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="facebook_app_id">391152384653787</string>
+    <string name="fb_login_protocol_scheme">fb391152384653787</string>
+    <string name="twitter_app_id">F02hGiztTsRmQ63VSxjw7qVt3</string>
+    <string name="twitter_secret">9RL54KIaRay9hANYqFo2ysK2V8NvQW3DDuhRwgBo0KgRxHfkVP</string>
+</resources>
